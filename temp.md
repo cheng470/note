@@ -1,7 +1,5 @@
 # 范例
 
----
-
 ## 语法
 
 `whizprog [ options ... ] [ arguments ... ]`
