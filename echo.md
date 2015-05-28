@@ -2,7 +2,9 @@
 
 ## 语法
 
-`echo [short-option]... [string]...`
+```sh
+echo [short-option]... [string]...
+```
 
 ## 用途
 
@@ -26,7 +28,7 @@ echo 将各个参数打印到标准输出，参数之间以一个空格隔开，
 
 ## 例子
 
-```
+```sh
 $ echo hello world
 hello world
 $ echo 'hello world'
