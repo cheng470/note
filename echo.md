@@ -28,7 +28,7 @@ echo 将各个参数打印到标准输出，参数之间以一个空格隔开，
 
 ## 例子
 
-### 正常输出
+** 正常输出 **
 
 ```sh
 $ echo hello world
@@ -37,7 +37,7 @@ $ echo 'hello world'
 hello world
 ```
 
-### 开启转义输出
+** 开启转义输出 **
 
 ```sh
 $ echo 'hello\n world\n'
